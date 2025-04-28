@@ -1,0 +1,16 @@
+###NECESSARY DEPENDENCIES TO INSTALL BEFORE RUNNING!###
+ # AI models via OpenAI integration
+langchain-openai
+
+# Strictly Pydantic v1 (for BaseModel)
+pydantic<2
+
+# To load environment variables from a .env file
+python-dotenv
+
+# For displaying images and Jupyter functionality
+ipython
+
+# For creating and rendering graphs
+graphviz
+pydot
