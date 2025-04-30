@@ -35,6 +35,6 @@ then
 fi
 
 # Launch the specific notebook
-jupyter notebook Lesson_6_Student.ipynb
+jupyter notebook EssAI.ipynb
 
 echo "Done!"

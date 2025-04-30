@@ -1,4 +1,4 @@
-📄 AI Essay Writer Agent
+📄 AI Essay Writer Agent EssAI
 Turn ideas into full essays with the power of AI.
 
 ## Project Description

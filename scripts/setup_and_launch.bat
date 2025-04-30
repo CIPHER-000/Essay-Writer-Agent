@@ -24,7 +24,7 @@ if %errorlevel% neq 0 (
 
 :: Launch the notebook
 echo Launching Jupyter Notebook...
-jupyter notebook Lesson_6_Student.ipynb
+jupyter notebook EssAI.ipynb
 
 echo Setup complete!
 pause
