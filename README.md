@@ -74,7 +74,7 @@ Make sure you have Python and pip installed first.
 
 ## Usage Examples
 
-You can run the notebook `Lesson_6_Student.ipynb` directly after setup.  
+You can run the notebook `Essay_Writer.ipynb` directly after setup using the command `jupyter lab`.  
 Example workflow:
 
 ```python
