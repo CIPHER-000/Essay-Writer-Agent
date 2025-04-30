@@ -19,23 +19,15 @@ It also demonstrates how to visualize the flow or structure of the agent using s
     cd <Essay_Writer>
     ```
 
-2. **Install dependencies**
+2. **Install dependencies manually**
     
     ```bash
     pip install -r requirements.txt
     ```
 
-3. **Set up your environment variables**
+## OR **
 
-    - Create a `.env` file in the project root directory.
-    - Get your OpenAI API KEY ($5) @ <https://platform.openai.com/settings/organization/billing/overview>
-    - Add your OpenAI API key:
-    
-    ```
-    OPENAI_API_KEY=your-openai-api-key-here
-    ```
-
-4. **(Optional) Use Setup Script for Faster Installation**
+3. **(Optional but faster) Use Setup Script for Faster Installation**
 
     To automate installation and launch:
 
@@ -50,6 +42,17 @@ It also demonstrates how to visualize the flow or structure of the agent using s
         ```bash
         scripts\setup_and_launch.bat
         ```
+
+4. **Set up your environment variables**
+
+    - Create a `.env` file in the project root directory.
+    - Get your OpenAI API KEY ($5) @ <https://platform.openai.com/settings/organization/billing/overview>
+    - Add your OpenAI API key:
+    
+    ```
+    OPENAI_API_KEY=your-openai-api-key-here
+    ```
+
 
 ---
 
