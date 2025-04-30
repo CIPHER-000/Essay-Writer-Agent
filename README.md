@@ -19,9 +19,7 @@ It also demonstrates how to visualize the flow or structure of the agent using s
     cd <Essay_Writer>
     ```
 
-2. **Install dependencies manually** (optional)
-
-    If you prefer manual setup:
+2. **Install dependencies manually**
     
     ```bash
     pip install -r requirements.txt
