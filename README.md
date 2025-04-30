@@ -16,7 +16,7 @@ It also demonstrates how to visualize the flow or structure of the agent using s
 
     ```bash
     git clone <https://github.com/CIPHER-000/Essay-Writer-Agent.git>
-    cd <your-project-folder>
+    cd <Essay_Writer>
     ```
 
 2. **Install dependencies manually** (optional)
