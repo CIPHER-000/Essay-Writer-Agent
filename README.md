@@ -27,7 +27,7 @@ It also demonstrates how to visualize the flow or structure of the agent using s
 
 ## OR **
 
-3. **(Optional but faster) Use Setup Script for Faster Installation**
+2. **(Optional but faster) Use Setup Script for Faster Installation**
 
     To automate installation and launch:
 
@@ -43,7 +43,7 @@ It also demonstrates how to visualize the flow or structure of the agent using s
         scripts\setup_and_launch.bat
         ```
 
-4. **Set up your environment variables**
+3. **Set up your environment variables**
 
     - Create a `.env` file in the project root directory.
     - Get your OpenAI API KEY ($5) @ <https://platform.openai.com/settings/organization/billing/overview>
